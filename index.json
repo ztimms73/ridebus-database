@@ -1,0 +1,7 @@
+{
+	"name": "2.1",
+	"body": "TESTIFICATION",
+	"assets": [{
+		"download_url": "https://github.com/ztimms73/ridebus-database/raw/master/ridebus.db"
+	}]
+}
