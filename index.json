@@ -1,6 +1,6 @@
 {
-	"name": "2.12",
-	"body": "Добавление расписания маршрутов №7 и №8",
+	"name": "2.13",
+	"body": "Добавление одного направления маршрута №8а",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
