@@ -1,6 +1,6 @@
 {
-	"name": "2.9",
-	"body": "Добавление оставшихся недоделанных маршруток",
+	"name": "2.10",
+	"body": "Добавления части расписания маршрута №6",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
