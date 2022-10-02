@@ -1,6 +1,6 @@
 {
-	"name": "2.7",
-	"body": "TESTIFICATION",
+	"name": "2.8",
+	"body": "Добавление маршруток",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
