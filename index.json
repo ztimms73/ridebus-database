@@ -1,6 +1,6 @@
 {
-	"name": "2.8",
-	"body": "Добавление маршруток",
+	"name": "2.9",
+	"body": "Добавление оставшихся недоделанных маршруток",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
