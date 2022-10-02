@@ -1,5 +1,5 @@
 {
-	"name": "2.10",
+	"name": "2.11",
 	"body": "Добавления части расписания маршрута №6",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
