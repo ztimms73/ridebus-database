@@ -1,6 +1,6 @@
 {
-	"name": "2.22",
-	"body": "Добавлены все автобусы и актуализирована информации об их маршрутах",
+	"name": "2.23",
+	"body": "Начало добавления маршрута №30э",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
