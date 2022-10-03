@@ -1,6 +1,6 @@
 {
-	"name": "2.21",
-	"body": "Добавление маршрутов №23, №24",
+	"name": "2.22",
+	"body": "Добавлены все автобусы и актуализирована информации об их маршрутах",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
