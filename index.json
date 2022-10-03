@@ -1,6 +1,6 @@
 {
-	"name": "2.18",
-	"body": "Добавление маршрута №10",
+	"name": "2.19",
+	"body": "Добавление маршрута №11",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
