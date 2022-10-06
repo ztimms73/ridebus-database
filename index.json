@@ -1,6 +1,6 @@
 {
-	"name": "2.27",
-	"body": "Добавлен маршрут №2тк (оба направления)",
+	"name": "2.28",
+	"body": "Начало добавления маршрута №4тк",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
