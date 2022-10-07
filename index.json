@@ -1,6 +1,6 @@
 {
-	"name": "2.29",
-	"body": "Добавление одного направления маршрута №4тк",
+	"name": "2.30",
+	"body": "Добавление маршрута №4тк",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
