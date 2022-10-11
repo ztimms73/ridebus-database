@@ -1,6 +1,6 @@
 {
-	"name": "2.33",
-	"body": "Тестовое обновление",
+	"name": "2.34",
+	"body": "Обновление маршрута №5тк",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
