@@ -1,6 +1,6 @@
 {
-	"name": "2.32",
-	"body": "Добавлено направление маршрута №5тк",
+	"name": "2.33",
+	"body": "Тестовое обновление",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
