@@ -1,6 +1,6 @@
 {
-	"name": "2.40",
-	"body": "Заполнено второе направление маршрута №6тк",
+	"name": "2.41",
+	"body": "Test\nTest\nTest\nTest\nTest\nTest\nTest\nTest\nTest\nTest\nTest\nTest\nTest\nTest",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
