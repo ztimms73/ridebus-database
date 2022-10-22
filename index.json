@@ -1,6 +1,6 @@
 {
-	"name": "2.46",
-	"body": "Заполнено направление маршрута №10тк «Новополоцк - Юбилейная»",
+	"name": "2.47",
+	"body": "Обновлена информация о маршрутах",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
