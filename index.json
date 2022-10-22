@@ -1,6 +1,6 @@
 {
-	"name": "2.48",
-	"body": "Обновлена информация о маршрутах",
+	"name": "2.49",
+	"body": "Привязка остановок к некоторым пустым маршрутам",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
