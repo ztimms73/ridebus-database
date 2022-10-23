@@ -1,6 +1,6 @@
 {
-	"name": "2.50",
-	"body": "Привязка остановок к оставшимся маршрутам (25тк, 29тк)",
+	"name": "2.51",
+	"body": "Начало заполнения маршрута №10тк (Юбилейная - Новополоцк)",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
