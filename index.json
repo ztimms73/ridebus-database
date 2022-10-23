@@ -1,6 +1,6 @@
 {
-	"name": "2.57",
-	"body": "Заполнено расписание маршрута №16тк (Больница (Новка) - Боровуха-3)",
+	"name": "2.58",
+	"body": "Заполенение маршрута №17тк",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
