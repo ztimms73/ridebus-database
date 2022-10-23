@@ -1,6 +1,6 @@
 {
-	"name": "2.55",
-	"body": "Заполнено расписание маршрута №10тк (Юбилейная - Новополоцк)",
+	"name": "2.56",
+	"body": "Заполнено расписание маршрута №12тк (Невельская - ТРЦ)",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
