@@ -1,6 +1,6 @@
 {
-	"name": "2.49",
-	"body": "Привязка остановок к некоторым пустым маршрутам",
+	"name": "2.50",
+	"body": "Привязка остановок к оставшимся маршрутам (25тк, 29тк)",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
