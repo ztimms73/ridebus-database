@@ -1,6 +1,6 @@
 {
-	"name": "2.56",
-	"body": "Заполнено расписание маршрута №12тк (Невельская - ТРЦ)",
+	"name": "2.57",
+	"body": "Заполнено расписание маршрута №16тк (Больница (Новка) - Боровуха-3)",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
