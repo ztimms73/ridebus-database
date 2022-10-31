@@ -1,6 +1,6 @@
 {
-	"name": "2.59",
-	"body": "Начальное добавление маршрута №1 (Нафтан - Березка)",
+	"name": "2.60",
+	"body": "Начальное добавление некоторых остановок города Новополоцка",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
