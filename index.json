@@ -1,6 +1,6 @@
 {
-	"name": "2.63",
-	"body": "Актуализация расписания маршрута №10 направления Полоцк - Новополоцк",
+	"name": "2.64",
+	"body": "Добавление расписания маршрута №18тк",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
