@@ -1,5 +1,5 @@
 {
-	"name": "2.64",
+	"name": "2.65",
 	"body": "Добавление расписания маршрута №18тк",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
