@@ -1,6 +1,6 @@
 {
-	"name": "2.65",
-	"body": "Добавление расписания маршрута №18тк",
+	"name": "2.66",
+	"body": "Добавление расписания маршрута №17тк обратного направления",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
