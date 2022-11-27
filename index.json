@@ -1,6 +1,6 @@
 {
-	"name": "2.69",
-	"body": "Тестовое добавление новополоцкого трамвая",
+	"name": "2.70",
+	"body": "Тестовые работы, обновление необязательно.",
 	"assets": [{
 		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
 	}]
