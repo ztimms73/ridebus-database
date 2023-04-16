@@ -1,7 +1,7 @@
 {
-	"name": "2.70",
-	"body": "Тестовые работы, обновление необязательно.",
+	"name": "3.0",
+	"body": "Обновление базы данных.",
 	"assets": [{
-		"download_url": "https://github.com/ztimms73/ridebus-database/raw/main/ridebus.db"
+		"download_url": "https://github.com/ridebus-by/database/raw/v3/ridebus.db"
 	}]
 }
