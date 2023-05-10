@@ -1,6 +1,6 @@
 {
-	"name": "3.1",
-	"body": "От Тимофея",
+	"name": "3.2",
+	"body": "Тестовое обновление",
 	"assets": [{
 		"download_url": "https://github.com/ridebus-by/database/raw/v3/ridebus.db"
 	}]
