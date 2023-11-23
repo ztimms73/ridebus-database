@@ -1,6 +1,6 @@
 {
-	"name": "3.4",
-	"body": "Актуализация части расписания транспорта г. Полоцка",
+	"name": "3.5",
+	"body": "Временное удаление городов Новополоцк и Днепр",
 	"assets": [{
 		"download_url": "https://github.com/ridebus-by/database/raw/v3/ridebus.db"
 	}]
