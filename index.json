@@ -1,5 +1,5 @@
 {
-	"name": "3.7",
+	"name": "3.8",
 	"body": "Актуализация расписания, исправление ошибок, добавление расписания №30э г. Полоцка",
 	"assets": [{
 		"download_url": "https://github.com/ridebus-by/database/raw/v3/ridebus.db"
