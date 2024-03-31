@@ -1,5 +1,5 @@
 {
-	"name": "3.9",
+	"name": "3.10",
 	"body": "Добавлено расписание Миорского транспорта",
 	"assets": [{
 		"download_url": "https://github.com/ridebus-by/database/raw/v3/ridebus.db"
